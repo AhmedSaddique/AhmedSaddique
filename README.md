@@ -1,6 +1,12 @@
 # 💫 About Me:
 👋 Hi, I'm Muhammad Ahmad<br><br>A passionate Frontend Developer from Islamabad, Pakistan 🇵🇰.<br>I specialize in Next.js, TypeScript, and Tailwind CSS, and I enjoy building scalable, high-performance, and user-friendly web applications.<br><br>About Me :<br><br>🔭 I’m currently working on building modern, responsive web apps with Next.js, Tailwind CSS, and TypeScript.<br>🤝 I’m looking to collaborate on frontend projects (Next.js, React, Tailwind CSS).<br>👐 I’m looking for help with backend best practices and scaling applications.<br>🌱 I’m currently learning Node.js, Express.js, GraphQL, and advanced performance optimization.<br>💬 Ask me about Next.js, React, Tailwind CSS, Framer Motion, and frontend performance tips.<br>⚡ Fun fact: When I’m not coding, you’ll find me playing games like Tekken🎮, trying out food spots 🍔🍕, or spending extra time perfecting UI animations in the office ✨.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/emopunki.13/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmed__saddique/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ahmad-69091a220/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ahmed__saddique) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.saddique12@gmail.com) 
